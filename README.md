@@ -5,6 +5,13 @@ Pieni Sveltellä tehty peli.
 ## Käyttö
 
 Kloonaa repository ja anna sen jälkeen hakemistossa komennot:
-`npm i`
+
+```
+npm i
+```
+
 ja
-`npm run dev`
+
+```
+npm run dev
+```
